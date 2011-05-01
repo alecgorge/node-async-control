@@ -1,0 +1,1 @@
+If you open `test.js`, you will see a complete example of how to use async-control.
